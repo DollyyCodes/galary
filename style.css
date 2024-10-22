@@ -1,0 +1,106 @@
+
+body {
+    background-color: rgb(90, 230, 230);
+}
+
+.my-div {
+    height: 120px;
+    width: 120px;
+    background-color:red;
+    margin:10px;
+}
+
+.row{
+    display:flex;
+}
+
+
+.container {
+    margin: 100px 370px;
+}
+
+.r-1-c-1{
+    background-image: url('./image/IMG-20241003-WA0032.jpg');
+    background-size: 120px 120px;
+}
+
+.r-1-c-2{
+    background-image: url('./image/IMG-20241003-WA0032.jpg');
+    background-size: 120px 120px;
+}
+
+.r-1-c-3{
+    background-image: url('./image/IMG-20241003-WA0032.jpg');
+    background-size: 120px 120px;
+}
+
+.r-1-c-4{
+    background-image: url('./image/IMG-20241003-WA0032.jpg');
+    background-size: 120px 120px;
+}
+
+.r-2-c-1{
+    background-image: url('./image/1667745887304.jpg');
+    background-size: 120px 120px;
+}
+
+.r-2-c-2{
+    background-image: url('./image/1667745887304.jpg');
+    background-size: 120px 120px;
+}
+
+.r-2-c-3{
+    background-image: url('./image/1667745887304.jpg');
+    background-size: 120px 120px;
+}
+
+.r-2-c-4{
+    background-image: url('./image/1667745887304.jpg');
+    background-size: 120px 120px;
+}
+
+.r-3-c-1{
+    background-image: url('./image/IMG-20240927-WA0006.jpg');
+    background-size: 120px 120px;
+}
+
+.r-3-c-2{
+    background-image: url('./image/IMG-20240927-WA0006.jpg');
+    background-size: 120px 120px;
+}
+
+.r-3-c-3{
+    background-image: url('./image/IMG-20240927-WA0006.jpg');
+    background-size: 120px 120px;
+}
+
+.r-3-c-4{
+    background-image: url('./image/IMG-20240927-WA0006.jpg');
+    background-size: 120px 120px;
+}
+
+.r-4-c-1{
+    background-image: url('./image/Screenshot_2024-10-20-16-16-57-38_1c337646f29875672b5a61192b9010f9-1.jpg');
+    background-size: 120px 120px;
+}
+
+
+.r-4-c-2{
+    background-image: url('./image/Screenshot_2024-10-20-16-16-57-38_1c337646f29875672b5a61192b9010f9-1.jpg');
+    background-size: 120px 120px;
+}
+
+.r-4-c-3{
+    background-image: url('./image/Screenshot_2024-10-20-16-16-57-38_1c337646f29875672b5a61192b9010f9-1.jpg');
+    background-size: 120px 120px;
+}
+
+.r-4-c-4{
+    background-image: url('./image/Screenshot_2024-10-20-16-16-57-38_1c337646f29875672b5a61192b9010f9-1.jpg');
+    background-size: 120px 120px;
+}
+
+.my-div:hover{
+    border: 2px solid white;
+
+}
